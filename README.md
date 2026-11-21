@@ -93,19 +93,19 @@ Anggota: Ya
 
 ### 1. Tampilan awal form
 
-![Tampilan awal form](tampilan-form.png)
+![Tampilan awal form](AWAL.png)
 
 Form menampilkan judul **FORM PENGUNJUNG PERPUSTAKAAN**, kolom *Nama Pengunjung*, kolom *Umur*, pilihan *Tujuan Kunjungan*, kotak centang *Anggota Perpustakaan*, dan tombol **Simpan**.
 
 ### 2. Form setelah diisi
 
-![Form setelah diisi](form-terisi.png)
+![Form setelah diisi](ISI.png)
 
 Contoh isian: nama **Budi**, umur **20**, tujuan **Meminjam Buku**, dan **Anggota Perpustakaan** dicentang.
 
 ### 3. Hasil setelah klik Simpan
 
-![Dialog hasil](hasil-dialog.png)
+![Dialog hasil](HASIL.png)
 
 Setelah tombol **Simpan** diklik, muncul dialog berisi data yang diisi:
 
